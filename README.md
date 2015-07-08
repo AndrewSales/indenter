@@ -1,5 +1,5 @@
 # indenter
-A SAX-based script for pretty-printing XML documents.
+A SAX-based script for pretty-printing XML 1.0 documents.
 
 ## Usage
   indenter: XML indentation tool  
